@@ -100,10 +100,10 @@
       
 - #### Support
  
- - Troubleshooting
- - Reporting a bug
- - Join to contribute
- - Donate
+  - Troubleshooting
+  - Reporting a bug
+  - Join to contribute
+  - Donate
  
 - #### About 
 
