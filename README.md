@@ -97,7 +97,8 @@
 
       - IPv6 Support for WiFi sharing
       - Text encoding for FTP connections
-      
+- ### About      
+
 - ### Support
  
   - Troubleshooting
@@ -105,7 +106,7 @@
   - Join to contribute
   - Donate
  
-- ### About 
+
 
 
       
