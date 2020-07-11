@@ -98,14 +98,14 @@
       - IPv6 Support for WiFi sharing
       - Text encoding for FTP connections
       
-- #### Support
+- ### Support
  
   - Troubleshooting
   - Reporting a bug
   - Join to contribute
   - Donate
  
-- #### About 
+- ### About 
 
 
       
