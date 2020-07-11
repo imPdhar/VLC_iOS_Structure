@@ -95,7 +95,17 @@
 
     - **File Synchronisation**
 
-      - IPv6 Support for WIFI sharing
-      - Text encoding for FTP connections 
+      - IPv6 Support for WiFi sharing
+      - Text encoding for FTP connections
+      
+- #### Support
+ 
+ - Troubleshooting
+ - Reporting a bug
+ - Join to contribute
+ - Donate
+ 
+- #### About 
+
 
       
